@@ -10,5 +10,5 @@ And i used a while loop for sum.
 
 ## 3-Prime Factors
 
-The problem is about prime factors.
+The problem is about prime factors. <br>
 And i divide the number to find biggest prime factor of 600851475143.
