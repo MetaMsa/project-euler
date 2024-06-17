@@ -1,4 +1,4 @@
-# project-euler
+# Project-Euler
 My progress in project euler problems.
 
 ## 2-Even Fibonacci Numbers
